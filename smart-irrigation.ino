@@ -1,6 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
-// Blynk IOT Smart Agriculture Monitoring System 
-
 #define BLYNK_PRINT Serial   
 #include <SPI.h>
 #include <ESP8266WiFi.h>
